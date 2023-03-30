@@ -7071,7 +7071,7 @@ aB_:function aB_(a){this.a=a},
 b_4(a,b){var s
 switch(B.d.a2(a)){case 3:s=B.US
 break
-case 6:s=B.V0
+case 6:s=B.V1
 break
 case 9:s=B.VF
 break
@@ -38285,7 +38285,7 @@ i=A.cz(A.da(!1,!0,A.aO(new A.w(B.aM,A.az(B.pS,B.N,B.m,B.j),o),o,f),o,!0,o,o,o,o,
 f=A.cg(10)
 s=h.C(g).f
 s=s.a.a<650?1/0:h.C(g).f.a.a/2
-f=A.cz(A.da(!1,!0,A.aO(new A.w(B.aM,A.az(A.a([B.NY,B.Oo,new A.w(B.iz,new A.bG(B.aQ,o,o,A.by(A.a([A.bm(!1,B.by,B.i,o,o,o,o,o,new A.aqd(),o,A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o))],m),B.aS,B.aW,B.j),o),o)],m),B.N,B.m,B.j),o),o,s),o,!0,o,o,o,o,o,o,o,o,o,new A.aqg(),o,o,o,o,o),B.D,20,new A.bg(f,B.q))
+f=A.cz(A.da(!1,!0,A.aO(new A.w(B.aM,A.az(A.a([B.NY,B.On,new A.w(B.iz,new A.bG(B.aQ,o,o,A.by(A.a([A.bm(!1,B.by,B.i,o,o,o,o,o,new A.aqd(),o,A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o))],m),B.aS,B.aW,B.j),o),o)],m),B.N,B.m,B.j),o),o,s),o,!0,o,o,o,o,o,o,o,o,o,new A.aqg(),o,o,o,o,o),B.D,20,new A.bg(f,B.q))
 if(h.C(g).f.a.a<500){s=A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o)
 s=A.az(A.a([A.bm(!1,A.aO(B.bY,o,h.C(g).f.a.a-100),B.i,o,o,o,o,o,new A.aqh(n),o,s)],m),B.n,B.m,B.j)}else s=A.by(A.a([A.bm(!1,B.hi,B.i,o,o,o,o,o,new A.aqi(n),o,A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o))],m),B.n,B.Z,B.j)
 s=A.d0(new A.w(B.bo,A.ih(A.a([A.az(A.a([new A.w(new A.a5(30,0,30,0),j,o),new A.w(B.ac,i,o),new A.w(B.p3,f,o),new A.w(B.b4,s,o)],m),B.n,B.Z,B.j)],m),B.iy,B.K,!0),o),o,o)
@@ -38297,13 +38297,13 @@ i=A.cz(A.da(!1,!0,A.aO(new A.w(B.aM,A.az(A.a([B.NW,B.O1,new A.w(B.iz,new A.bG(B.
 j=A.cg(10)
 r=h.C(g).f
 r=r.a.a<650?1/0:h.C(g).f.a.a/2
-j=A.d0(new A.w(B.bo,A.ih(A.a([new A.w(new A.a5(30,0,30,0),f,o),A.az(A.a([new A.w(B.ac,i,o),new A.w(B.p3,A.cz(A.da(!1,!0,A.aO(new A.w(B.aM,A.az(A.a([B.Oa,B.Ow,new A.w(B.iz,new A.bG(B.aQ,o,o,A.by(A.a([A.bm(!1,B.zB,B.i,o,o,o,o,o,new A.aql(n),o,A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o))],m),B.aS,B.aW,B.j),o),o)],m),B.N,B.m,B.j),o),o,r),o,!0,o,o,o,o,o,o,o,o,o,new A.aqm(n),o,o,o,o,o),B.D,20,new A.bg(j,B.q)),o)],m),B.n,B.Z,B.j)],m),B.iy,B.K,!0),o),o,o)
+j=A.d0(new A.w(B.bo,A.ih(A.a([new A.w(new A.a5(30,0,30,0),f,o),A.az(A.a([new A.w(B.ac,i,o),new A.w(B.p3,A.cz(A.da(!1,!0,A.aO(new A.w(B.aM,A.az(A.a([B.O9,B.Ow,new A.w(B.iz,new A.bG(B.aQ,o,o,A.by(A.a([A.bm(!1,B.zB,B.i,o,o,o,o,o,new A.aql(n),o,A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o))],m),B.aS,B.aW,B.j),o),o)],m),B.N,B.m,B.j),o),o,r),o,!0,o,o,o,o,o,o,o,o,o,new A.aqm(n),o,o,o,o,o),B.D,20,new A.bg(j,B.q)),o)],m),B.n,B.Z,B.j)],m),B.iy,B.K,!0),o),o,o)
 r=A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o)
 i=h.C(g).f
-f=A.d0(new A.w(B.bo,A.az(A.a([B.UA,B.O9,B.bH,A.bm(!1,A.aO(B.bY,o,i.a.a<500?h.C(g).f.a.a-100:100),B.i,o,o,o,o,o,new A.aq3(n),o,r)],m),B.n,B.Z,B.j),o),o,o)
+f=A.d0(new A.w(B.bo,A.az(A.a([B.UA,B.O8,B.bH,A.bm(!1,A.aO(B.bY,o,i.a.a<500?h.C(g).f.a.a-100:100),B.i,o,o,o,o,o,new A.aq3(n),o,r)],m),B.n,B.Z,B.j),o),o,o)
 r=A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o)
 i=h.C(g).f
-r=A.d0(new A.w(B.bo,A.az(A.a([B.Vk,B.Oc,B.bH,A.bm(!1,A.aO(B.bY,o,i.a.a<500?h.C(g).f.a.a-100:100),B.i,o,o,o,o,o,new A.aq4(n),o,r)],m),B.n,B.Z,B.j),o),o,o)
+r=A.d0(new A.w(B.bo,A.az(A.a([B.Vl,B.Ob,B.bH,A.bm(!1,A.aO(B.bY,o,i.a.a<500?h.C(g).f.a.a-100:100),B.i,o,o,o,o,o,new A.aq4(n),o,r)],m),B.n,B.Z,B.j),o),o,o)
 q=A.cg(10)
 i=h.C(g).f
 i=i.a.a<650?1/0:h.C(g).f.a.a/3
@@ -38313,7 +38313,7 @@ p=h.C(g).f
 i=A.az(A.a([B.zo,new A.w(B.ac,i,o),B.mD,A.bm(!1,A.aO(B.bY,o,p.a.a<500?h.C(g).f.a.a-100:100),B.i,o,o,o,o,o,new A.aqb(n),o,q)],m),B.n,B.Z,B.be)
 q=A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o)
 p=h.C(g).f
-return A.o_(l,o,A.aed(A.a([s,j,f,r,i,A.d0(new A.w(B.bo,A.az(A.a([B.VK,B.On,B.bH,A.bm(!1,A.aO(B.UB,o,p.a.a<500?h.C(g).f.a.a-100:100),B.i,o,o,o,o,o,new A.aqc(h),o,q)],m),B.n,B.Z,B.j),o),o,o)],m),k,new A.aqe(),o),o,A.aO(A.n2(new A.w(B.b4,A.d0(A.aEZ(k,6,B.n5,new A.aqf(n)),o,o),o),B.hY,B.c1),70,o),!0)},
+return A.o_(l,o,A.aed(A.a([s,j,f,r,i,A.d0(new A.w(B.bo,A.az(A.a([B.VK,B.Om,B.bH,A.bm(!1,A.aO(B.UB,o,p.a.a<500?h.C(g).f.a.a-100:100),B.i,o,o,o,o,o,new A.aqc(h),o,q)],m),B.n,B.Z,B.j),o),o,o)],m),k,new A.aqe(),o),o,A.aO(A.n2(new A.w(B.b4,A.d0(A.aEZ(k,6,B.n5,new A.aqf(n)),o,o),o),B.hY,B.c1),70,o),!0)},
 $S:202}
 A.aq0.prototype={
 $1(a){var s=null
@@ -38557,7 +38557,7 @@ m=j}else{m=A.bm(!1,B.Qq,B.i,e,e,e,e,e,new A.arS(),e,A.aP(e,e,e,e,e,e,e,e,e,e,e,e
 j=a.C(n).f
 j=j.a.a<500?B.hg:B.d1
 j=A.by(A.a([new A.w(B.c2,m,e),j,new A.w(B.c2,A.bm(!1,B.hi,B.i,e,e,e,e,e,new A.arT(f),e,A.aP(e,e,e,e,e,e,e,e,e,e,e,e,e,e,B.t,e,e,e,e,e,e)),e)],k),B.n,B.Z,B.j)
-m=j}m=A.az(A.a([B.O6,q,p,m],k),B.n,B.Z,B.j)
+m=j}m=A.az(A.a([B.Oo,q,p,m],k),B.n,B.Z,B.j)
 q=a.C(n).f
 q=q.a.a<500?B.bQ:B.Z
 p=A.aP(e,e,e,e,e,e,e,e,e,e,e,e,e,e,B.t,e,e,e,e,e,e)
@@ -38590,7 +38590,7 @@ h=A.bm(!1,A.aO(B.bY,e,a.C(n).f.a.a-100),B.i,e,e,e,e,e,new A.arn(f),e,h)
 g=A.aP(e,e,e,e,e,e,e,e,e,e,e,e,e,e,B.t,e,e,e,e,e,e)
 g=A.az(A.a([h,B.bH,A.bm(!1,A.aO(B.zH,e,a.C(n).f.a.a-100),B.i,e,e,e,e,e,new A.aro(f),e,g)],k),B.n,B.m,B.j)
 h=g}else h=A.by(A.a([A.bm(!1,B.Qm,B.i,e,e,e,e,e,new A.arp(f),e,A.aP(e,e,e,e,e,e,e,e,e,e,e,e,e,e,B.t,e,e,e,e,e,e)),B.d1,A.bm(!1,B.hi,B.i,e,e,e,e,e,new A.arr(f),e,A.aP(e,e,e,e,e,e,e,e,e,e,e,e,e,e,B.t,e,e,e,e,e,e))],k),B.n,B.Z,B.j)
-h=A.az(A.a([B.Ob,o,j,i,h],k),B.n,B.Z,B.j)
+h=A.az(A.a([B.Oa,o,j,i,h],k),B.n,B.Z,B.j)
 o=a.C(n).f
 if(o.a.a<800){o=A.cg(10)
 j=a.C(n).f
@@ -38780,7 +38780,7 @@ $0(){this.a.ch.h0(6,B.F,B.P)},
 $S:0}
 A.arw.prototype={
 $2(a,b){var s=null,r=A.aP(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.t,s,s,s,s,s,s),q=this.a,p=q.z,o=p?B.Hz:B.Hy
-p=p?B.UU:B.Vd
+p=p?B.UU:B.Ve
 return new A.w(B.ar,A.ed(o,p,new A.ar3(q),r),s)},
 $S:17}
 A.ar3.prototype={
@@ -39162,11 +39162,11 @@ q.toString
 s.a.kL(0,q,p).b5(0,new A.asK(),t.H).jn(new A.asL())},
 I(a){var s,r,q,p,o=null,n=A.hO(B.A,!0,o,A.aO(A.d0(A.c8(B.h.k($.dv),o,o,o,B.TZ,B.x,o),o,o),56,56),B.i,B.l,0,o,o,o,o,o,B.cs),m=$.dv
 if(m<3)s=B.Ou
-else s=m===3?B.Og:B.Oj
+else s=m===3?B.Of:B.Oi
 m=A.c8("Your score is "+m+". Keep in mind that this test does not confirm or rule out the chance of cognitive impairment. We recommend checking in with a doctor to confirm your diagnosis.",o,o,o,B.aw,B.x,o)
 r=A.c8("Remembering Words: "+$.i1+"/3",o,o,o,B.aw,B.x,o)
 q=A.c8("Clock Score: "+$.t_+"/2",o,o,o,B.aw,B.x,o)
-p=A.zN(A.aO(A.ed(B.Hw,B.Vb,new A.asG(a),A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.l,o,o,o,o,o,o)),o,200),B.aH)
+p=A.zN(A.aO(A.ed(B.Hw,B.Vc,new A.asG(a),A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.l,o,o,o,o,o,o)),o,200),B.aH)
 return new A.wN(A.o_(o,B.a8,A.d0(A.az(A.a([new A.L3(n,o),s,new A.w(B.Gg,m,o),new A.w(B.oW,r,o),q,new A.w(B.b4,p,o),new A.w(B.ar,A.zN(A.ed(B.pG,B.UE,new A.asH(),A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.l,o,o,o,o,o,o)),B.aH),o),new A.w(B.ar,A.zN(A.ed(B.pG,B.VV,new A.asI(a),A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.l,o,o,o,o,o,o)),B.aH),o)],t.p),B.n,B.Z,B.j),o,o),o,o,o),new A.asJ(),o)}}
 A.asK.prototype={
 $1(a){return A.bl("User Number Added")},
@@ -39271,7 +39271,7 @@ f=h.C(g).f
 f=A.aO(A.oh(!0,B.aV,!1,m,A.t9(),m,m,m,m,2,B.HN,!0,m,!0,m,!1,m,m,m,m,m,m,1,m,m,!1,"\u2022",m,m,m,m,m,!1,m,m,B.c3,m,m,m,m,m,m,m,B.an,m,B.ce,m,m,m),100,f.a.a/4)
 s=A.aP(m,m,m,m,m,m,m,m,m,m,m,m,m,m,B.t,m,m,m,m,m,m)
 r=h.C(g).f
-return A.o_(l,m,A.aed(A.a([i,A.d0(new A.w(B.bo,A.az(A.a([B.Vr,B.O4,B.bH,f,A.bm(!1,A.aO(B.UJ,m,r.a.a<500?h.C(g).f.a.a-100:100),B.i,m,m,m,m,m,new A.aAY(h),m,s)],p),B.n,B.Z,B.j),m),m,m)],p),j,new A.aAZ(),m),m,A.aO(A.n2(new A.w(B.b4,A.d0(A.aEZ(j,2,B.n5,new A.aB_(k)),m,m),m),B.hY,B.c1),70,m),!0)},
+return A.o_(l,m,A.aed(A.a([i,A.d0(new A.w(B.bo,A.az(A.a([B.Vs,B.O4,B.bH,f,A.bm(!1,A.aO(B.UJ,m,r.a.a<500?h.C(g).f.a.a-100:100),B.i,m,m,m,m,m,new A.aAY(h),m,s)],p),B.n,B.Z,B.j),m),m,m)],p),j,new A.aAZ(),m),m,A.aO(A.n2(new A.w(B.b4,A.d0(A.aEZ(j,2,B.n5,new A.aB_(k)),m,m),m),B.hY,B.c1),70,m),!0)},
 $S:202}
 A.aAZ.prototype={
 $1(a){},
@@ -39330,9 +39330,9 @@ s=A.cg(10)
 r=t.p
 s=A.az(A.a([B.Ak,new A.w(B.ac,A.cz(A.da(!1,!0,A.aO(A.az(B.pS,B.N,B.m,B.j),185,1/0),o,!0,o,o,o,o,o,o,o,o,o,new A.a4E(),o,o,o,o,o),B.D,20,new A.bg(s,B.q)),o)],r),B.n,B.m,B.j)
 q=A.cg(10)
-q=A.cz(A.da(!1,!0,A.aO(A.az(A.a([B.Oq,B.Of,new A.w(B.de,new A.bG(B.aQ,o,o,A.by(A.a([A.bm(!1,B.by,B.i,o,o,o,o,o,new A.a4F(),o,A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o)),new A.w(B.cD,A.bm(!1,B.eO,B.i,o,o,o,o,o,new A.a4G(a),o,A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o)),o)],r),B.aS,B.aW,B.j),o),o)],r),B.N,B.m,B.j),165,1/0),o,!0,o,o,o,o,o,o,o,o,o,new A.a4H(),o,o,o,o,o),B.D,20,new A.bg(q,B.q))
+q=A.cz(A.da(!1,!0,A.aO(A.az(A.a([B.Oq,B.Oe,new A.w(B.de,new A.bG(B.aQ,o,o,A.by(A.a([A.bm(!1,B.by,B.i,o,o,o,o,o,new A.a4F(),o,A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o)),new A.w(B.cD,A.bm(!1,B.eO,B.i,o,o,o,o,o,new A.a4G(a),o,A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o)),o)],r),B.aS,B.aW,B.j),o),o)],r),B.N,B.m,B.j),165,1/0),o,!0,o,o,o,o,o,o,o,o,o,new A.a4H(),o,o,o,o,o),B.D,20,new A.bg(q,B.q))
 p=A.cg(10)
-return A.bQ(o,A.ih(A.a([s,new A.w(B.ac,q,o),new A.w(B.ac,A.cz(A.da(!1,!0,A.bQ(o,A.aO(A.az(A.a([B.O0,B.Od,new A.w(B.de,new A.bG(B.aQ,o,o,A.by(A.a([A.bm(!1,B.by,B.i,o,o,o,o,o,new A.a4I(),o,A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o)),new A.w(B.cD,A.bm(!1,B.eO,B.i,o,o,o,o,o,new A.a4J(new A.a4r(a)),o,A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o)),o)],r),B.aS,B.aW,B.j),o),o)],r),B.N,B.m,B.j),150,1/0),B.i,o,o,o,o,o,o,o,o,o,o),o,!0,o,o,o,o,o,o,o,o,o,new A.a4K(),o,o,o,o,o),B.D,20,new A.bg(p,B.q)),o)],r),B.iy,B.K,!1),B.i,o,o,o,o,o,o,o,o,o,o)}}
+return A.bQ(o,A.ih(A.a([s,new A.w(B.ac,q,o),new A.w(B.ac,A.cz(A.da(!1,!0,A.bQ(o,A.aO(A.az(A.a([B.O0,B.Oc,new A.w(B.de,new A.bG(B.aQ,o,o,A.by(A.a([A.bm(!1,B.by,B.i,o,o,o,o,o,new A.a4I(),o,A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o)),new A.w(B.cD,A.bm(!1,B.eO,B.i,o,o,o,o,o,new A.a4J(new A.a4r(a)),o,A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o)),o)],r),B.aS,B.aW,B.j),o),o)],r),B.N,B.m,B.j),150,1/0),B.i,o,o,o,o,o,o,o,o,o,o),o,!0,o,o,o,o,o,o,o,o,o,new A.a4K(),o,o,o,o,o),B.D,20,new A.bg(p,B.q)),o)],r),B.iy,B.K,!1),B.i,o,o,o,o,o,o,o,o,o,o)}}
 A.a4r.prototype={
 $0(){var s=0,r=A.Q(t.z),q=this,p,o,n,m,l,k,j,i,h,g,f
 var $async$$0=A.R(function(a,b){if(a===1)return A.N(b,r)
@@ -39360,7 +39360,7 @@ $1(a){return new A.dF(new A.a4C(),null)},
 $S:473}
 A.a4C.prototype={
 $2(a,b){var s=null,r=a.C(t.w).f,q=t.p
-return A.bQ(s,A.az(A.a([B.V9,A.by(A.a([B.au,A.pk(s,!1,s,s,s,s,s,s,s,new A.a4x(b),s,s,s,s,!1,$.aGp,s),B.V4,B.au],q),B.n,B.m,B.j),A.by(A.a([B.au,A.pk(s,!1,s,s,s,s,s,s,s,new A.a4y(b),s,s,s,s,!1,$.aGC,s),B.zJ,B.au],q),B.n,B.m,B.j),A.by(A.a([B.au,A.pk(s,!1,s,s,s,s,s,s,s,new A.a4z(b),s,s,s,s,!1,$.aGq,s),B.zw,B.au],q),B.n,B.m,B.j),A.by(A.a([B.au,A.pk(s,!1,s,s,s,s,s,s,s,new A.a4A(b),s,s,s,s,!1,$.aGj,s),B.V3,B.au],q),B.n,B.m,B.j),A.by(A.a([B.au,A.pk(s,!1,s,s,s,s,s,s,s,new A.a4B(b),s,s,s,s,!1,$.aGi,s),B.UN,B.au],q),B.n,B.m,B.j)],q),B.aS,B.m,B.be),B.i,s,s,s,s,s,s,new A.a5(15,15,15,r.e.d+120),s,s,s)},
+return A.bQ(s,A.az(A.a([B.Va,A.by(A.a([B.au,A.pk(s,!1,s,s,s,s,s,s,s,new A.a4x(b),s,s,s,s,!1,$.aGp,s),B.V5,B.au],q),B.n,B.m,B.j),A.by(A.a([B.au,A.pk(s,!1,s,s,s,s,s,s,s,new A.a4y(b),s,s,s,s,!1,$.aGC,s),B.zJ,B.au],q),B.n,B.m,B.j),A.by(A.a([B.au,A.pk(s,!1,s,s,s,s,s,s,s,new A.a4z(b),s,s,s,s,!1,$.aGq,s),B.zw,B.au],q),B.n,B.m,B.j),A.by(A.a([B.au,A.pk(s,!1,s,s,s,s,s,s,s,new A.a4A(b),s,s,s,s,!1,$.aGj,s),B.V4,B.au],q),B.n,B.m,B.j),A.by(A.a([B.au,A.pk(s,!1,s,s,s,s,s,s,s,new A.a4B(b),s,s,s,s,!1,$.aGi,s),B.UN,B.au],q),B.n,B.m,B.j)],q),B.aS,B.m,B.be),B.i,s,s,s,s,s,s,new A.a5(15,15,15,r.e.d+120),s,s,s)},
 $S:492}
 A.a4x.prototype={
 $1(a){this.a.$1(new A.a4w())},
@@ -39443,7 +39443,7 @@ $0(){this.a.$0()},
 $S:0}
 A.Si.prototype={
 I(a){var s,r,q,p,o=null,n=A.cg(10),m=t.p
-n=A.cz(A.da(!1,!0,A.aO(A.az(A.a([B.Oh,B.O_,new A.w(B.de,new A.bG(B.aQ,o,o,A.by(A.a([A.bm(!1,B.by,B.i,o,o,o,o,o,new A.anp(),o,A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o))],m),B.aS,B.aW,B.j),o),o)],m),B.N,B.m,B.j),195,1/0),o,!0,o,o,o,o,o,o,o,o,o,new A.anq(),o,o,o,o,o),B.D,20,new A.bg(n,B.q))
+n=A.cz(A.da(!1,!0,A.aO(A.az(A.a([B.Og,B.O_,new A.w(B.de,new A.bG(B.aQ,o,o,A.by(A.a([A.bm(!1,B.by,B.i,o,o,o,o,o,new A.anp(),o,A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o))],m),B.aS,B.aW,B.j),o),o)],m),B.N,B.m,B.j),195,1/0),o,!0,o,o,o,o,o,o,o,o,o,new A.anq(),o,o,o,o,o),B.D,20,new A.bg(n,B.q))
 s=A.cg(10)
 r=A.az(A.a([new A.w(new A.a5(4,15,20,15),A.c8("Brain Activities",o,o,o,A.ec(o,o,A.a_(a).p3.y.b,o,o,o,o,o,o,o,o,25,o,o,B.as,o,o,!0,o,o,o,o,o,o,o,o),o,o),o)],m),B.N,B.m,B.j)
 s=A.cz(A.ud(A.a([new A.w(B.cE,A.az(A.a([B.zz,new A.w(B.b4,A.by(A.a([A.bm(!1,B.by,B.i,o,o,o,o,o,new A.anr(),o,A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o)),new A.w(B.cD,A.bm(!1,B.Vy,B.i,o,o,o,o,o,o,o,A.aP(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.t,o,o,o,o,o,o)),o)],m),B.aS,B.aW,B.j),o)],m),B.n,B.m,B.j),o)],m),r),B.D,20,new A.bg(s,B.q))
@@ -39666,7 +39666,7 @@ A.t2.prototype={
 a1(){return new A.a17(B.k)}}
 A.a17.prototype={
 I(a){var s=null,r=A.yM(s,B.y,0,B.a8),q=A.cg(10),p=t.p
-return A.o_(r,s,A.az(A.a([B.O7,new A.w(B.iA,A.cz(A.az(A.a([A.eE(s,B.Hu,new A.azW(this),B.VX,B.V8,A.aF4(new A.azX(this),this.d)),A.eE(s,B.px,new A.azY(),s,B.zp,B.bq),A.eE(s,B.pF,new A.azZ(),s,B.zx,B.bq),A.eE(s,B.pt,new A.aA_(),s,B.zG,B.bq),A.eE(s,B.pu,new A.aA0(),s,B.zI,B.bq),A.eE(s,B.pD,new A.aA1(),s,B.zC,B.bq),A.eE(s,B.pC,new A.aA2(),s,B.zm,B.pw)],p),B.n,B.m,B.j),B.D,20,new A.bg(q,B.q)),s)],p),B.n,B.m,B.j),s,s,!0)}}
+return A.o_(r,s,A.az(A.a([B.O6,new A.w(B.iA,A.cz(A.az(A.a([A.eE(s,B.Hu,new A.azW(this),B.VX,B.V9,A.aF4(new A.azX(this),this.d)),A.eE(s,B.px,new A.azY(),s,B.zp,B.bq),A.eE(s,B.pF,new A.azZ(),s,B.zx,B.bq),A.eE(s,B.pt,new A.aA_(),s,B.zG,B.bq),A.eE(s,B.pu,new A.aA0(),s,B.zI,B.bq),A.eE(s,B.pD,new A.aA1(),s,B.zC,B.bq),A.eE(s,B.pC,new A.aA2(),s,B.zm,B.pw)],p),B.n,B.m,B.j),B.D,20,new A.bg(q,B.q)),s)],p),B.n,B.m,B.j),s,s,!0)}}
 A.azX.prototype={
 $1(a){var s=this.a
 s.M(new A.azU(s,a))},
@@ -39711,7 +39711,7 @@ A.t6.prototype={
 a1(){return new A.a1b(B.k)}}
 A.a1b.prototype={
 I(a){var s=this,r=null,q=A.yM(r,B.y,0,B.a8),p=A.cg(10),o=t.p
-return A.o_(q,r,A.az(A.a([B.O8,new A.w(B.iA,A.cz(A.az(A.a([A.eE(r,B.pz,new A.aAr(s),B.UW,B.UT,A.aF4(new A.aAs(s),s.d)),A.eE(r,B.pz,new A.aAt(s),B.UC,B.VI,A.aF4(new A.aAu(s),s.e))],o),B.n,B.m,B.j),B.D,20,new A.bg(p,B.q)),r)],o),B.n,B.m,B.j),r,r,!0)}}
+return A.o_(q,r,A.az(A.a([B.O7,new A.w(B.iA,A.cz(A.az(A.a([A.eE(r,B.pz,new A.aAr(s),B.UW,B.UT,A.aF4(new A.aAs(s),s.d)),A.eE(r,B.pz,new A.aAt(s),B.UC,B.VI,A.aF4(new A.aAu(s),s.e))],o),B.n,B.m,B.j),B.D,20,new A.bg(p,B.q)),r)],o),B.n,B.m,B.j),r,r,!0)}}
 A.aAs.prototype={
 $1(a){var s=this.a
 s.M(new A.aAp(s,a))},
@@ -87303,8 +87303,8 @@ B.c2=new A.a5(0,20,0,0)
 B.as=new A.hH(4,500)
 B.mN=new A.t(!0,null,null,null,null,null,15,B.as,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.x=new A.kO(2,"center")
-B.Vs=new A.a7(u.x,null,B.mN,B.x,null,null,null,null,null)
-B.Op=new A.w(B.c2,B.Vs,null)
+B.Vt=new A.a7(u.x,null,B.mN,B.x,null,null,null,null,null)
+B.Op=new A.w(B.c2,B.Vt,null)
 B.Ah=new A.bG(B.cj,null,null,B.Op,null)
 B.ba=new A.dX(-1,0)
 B.fg=new A.a5(30,80,0,0)
@@ -87312,8 +87312,8 @@ B.ck=new A.pd(3,"fitWidth")
 B.v=new A.dX(0,0)
 B.i=new A.po(0,"none")
 B.bX=new A.t(!0,null,null,null,null,null,40,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Vt=new A.a7("Mini Cog",null,B.bX,null,null,null,null,null,null)
-B.Gz=new A.lG(B.ck,B.v,B.Vt,null)
+B.Vu=new A.a7("Mini Cog",null,B.bX,null,null,null,null,null,null)
+B.Gz=new A.lG(B.ck,B.v,B.Vu,null)
 B.NR=new A.w(B.fg,B.Gz,null)
 B.Ak=new A.bG(B.ba,null,null,B.NR,null)
 B.VW=new A.a7("Is the hour number placed correctly?",null,B.mN,null,null,null,null,null,null)
@@ -87325,17 +87325,17 @@ B.Os=new A.w(B.fg,B.GA,null)
 B.Al=new A.bG(B.ba,null,null,B.Os,null)
 B.Y=new A.a5(0,0,0,0)
 B.dC=new A.t(!0,null,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.V1=new A.a7("Say the following words and remember them:",null,B.dC,null,null,null,null,null,null)
-B.GB=new A.lG(B.ck,B.v,B.V1,null)
+B.V2=new A.a7("Say the following words and remember them:",null,B.dC,null,null,null,null,null,null)
+B.GB=new A.lG(B.ck,B.v,B.V2,null)
 B.NN=new A.w(B.Y,B.GB,null)
 B.Am=new A.bG(B.v,null,null,B.NN,null)
 B.VE=new A.a7(u.x,null,B.mN,null,null,null,null,null,null)
-B.Om=new A.w(B.c2,B.VE,null)
-B.np=new A.bG(B.cj,null,null,B.Om,null)
+B.Ol=new A.w(B.c2,B.VE,null)
+B.np=new A.bG(B.cj,null,null,B.Ol,null)
 B.VM=new A.a7("Reports",null,B.bX,null,null,null,null,null,null)
 B.GD=new A.lG(B.ck,B.v,B.VM,null)
-B.Oe=new A.w(B.fg,B.GD,null)
-B.An=new A.bG(B.ba,null,null,B.Oe,null)
+B.Od=new A.w(B.fg,B.GD,null)
+B.An=new A.bG(B.ba,null,null,B.Od,null)
 B.nq=new A.ex(0,1)
 B.nr=new A.ex(0,-1)
 B.YC=new A.ex(1,0)
@@ -88237,10 +88237,10 @@ B.e=new A.i(0,0)
 B.B9=new A.dp(0,B.bJ,B.b_,B.e,5)
 B.If=A.a(s([B.B9]),t.sq)
 B.bx=new A.t(!0,null,null,null,null,null,25,B.as,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Vj=new A.a7("Disclaimer",null,B.bx,null,null,null,null,null,null)
-B.Ov=new A.w(B.bc,B.Vj,null)
-B.Vh=new A.a7("The mobile Mini-Cog is a mobile application of a brief screening test that can help identify cognitive impairment. It cannot diagnose any problem and is not a substitute for a clinical evaluation. You may wish to share the results with your doctor. ",null,null,null,null,null,null,null,null)
-B.Or=new A.w(B.bB,B.Vh,null)
+B.Vk=new A.a7("Disclaimer",null,B.bx,null,null,null,null,null,null)
+B.Ov=new A.w(B.bc,B.Vk,null)
+B.Vi=new A.a7("The mobile Mini-Cog is a mobile application of a brief screening test that can help identify cognitive impairment. It cannot diagnose any problem and is not a substitute for a clinical evaluation. You may wish to share the results with your doctor. ",null,null,null,null,null,null,null,null)
+B.Or=new A.w(B.bB,B.Vi,null)
 B.pS=A.a(s([B.Ov,B.Or]),t.p)
 B.Ih=A.a(s([B.oO,B.oP,B.oQ]),A.a8("B<lu>"))
 B.pT=A.a(s([0,0,32776,33792,1,10240,0,0]),t.t)
@@ -88292,7 +88292,7 @@ B.MZ=new A.ii(B.Mm,4294940672)
 B.AV=new A.pb(B.Hs,B.VD,B.MZ)
 B.H2=new A.c9(57534,!1)
 B.Ht=new A.cw(B.H2,null,null,null)
-B.Va=new A.a7("Reports",null,null,null,null,null,null,null,null)
+B.Vb=new A.a7("Reports",null,null,null,null,null,null,null,null)
 B.DM=new A.u(4293457385)
 B.DB=new A.u(4291356361)
 B.Dr=new A.u(4289058471)
@@ -88305,7 +88305,7 @@ B.D1=new A.u(4281236786)
 B.CV=new A.u(4279983648)
 B.Ml=new A.bI([50,B.DM,100,B.DB,200,B.Dr,300,B.Dn,400,B.Dg,500,B.Da,600,B.D8,700,B.D4,800,B.D1,900,B.CV],t.pl)
 B.MY=new A.ii(B.Ml,4283215696)
-B.AS=new A.pb(B.Ht,B.Va,B.MY)
+B.AS=new A.pb(B.Ht,B.Vb,B.MY)
 B.UY=new A.a7("Settings",null,null,null,null,null,null,null,null)
 B.AT=new A.pb(B.pv,B.UY,B.jn)
 B.J0=A.a(s([B.AU,B.AV,B.AS,B.AT]),A.a8("B<pb>"))
@@ -88314,9 +88314,9 @@ B.J6=A.a(s([-1,0,0,1,0,0,-1,0,1,0,0,0,-1,1,0,1,1,1,1,0]),t.up)
 B.AC=new A.tl(0,"polite")
 B.J7=A.a(s([B.AC,B.nu]),A.a8("B<tl>"))
 B.hu=new A.t(!0,B.o,null,null,null,null,25,B.as,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Vl=new A.a7("Validity of the Mini Cog",null,B.hu,null,null,null,null,null,null)
-B.Ol=new A.w(B.df,B.Vl,null)
-B.J8=A.a(s([B.Ol]),t.p)
+B.Vm=new A.a7("Validity of the Mini Cog",null,B.hu,null,null,null,null,null,null)
+B.Ok=new A.w(B.df,B.Vm,null)
+B.J8=A.a(s([B.Ok]),t.p)
 B.J9=A.a(s(["BC","AD"]),t.s)
 B.fA=A.a(s([0,0,65490,45055,65535,34815,65534,18431]),t.t)
 B.og=new A.u(419430400)
@@ -88484,8 +88484,8 @@ B.Xw=new A.mx(B.A0,B.A_)
 B.Ke=A.a(s([B.Xu,B.Xx,B.Xv,B.Xw]),A.a8("B<mx>"))
 B.Kf=A.a(s([0,0,32754,11263,65534,34815,65534,18431]),t.t)
 B.VL=new A.a7("Certain Tests that can detect Dementia 9 years before Diagnosis",null,B.hu,null,null,null,null,null,null)
-B.Oi=new A.w(B.df,B.VL,null)
-B.Kg=A.a(s([B.Oi]),t.p)
+B.Oh=new A.w(B.df,B.VL,null)
+B.Kg=A.a(s([B.Oh]),t.p)
 B.q9=A.a(s([0,0,65490,12287,65535,34815,65534,18431]),t.t)
 B.Il=A.a(s([137,80,78,71,13,10,26,10]),t.Z)
 B.HH=new A.lL(B.Il,"image/png")
@@ -88509,14 +88509,14 @@ B.hm=new A.kO(5,"end")
 B.Kj=A.a(s([B.eL,B.mI,B.x,B.z4,B.an,B.hm]),A.a8("B<kO>"))
 B.j0=A.a(s([!0,!1]),t.HZ)
 B.zu=new A.a7("Grade your own test and get results back instantly. This is the most popular option.",null,null,null,null,null,null,null,null)
-B.V6=new A.a7("\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164",null,null,null,null,null,null,null,null)
-B.Kk=A.a(s([B.zu,B.V6]),t.p)
+B.V7=new A.a7("\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164",null,null,null,null,null,null,null,null)
+B.Kk=A.a(s([B.zu,B.V7]),t.p)
 B.qb=A.a(s(["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]),t.s)
 B.qc=A.a(s(["bind","if","ref","repeat","syntax"]),t.s)
 B.qe=A.a(s([0,4,12,1,5,13,3,7,15]),t.t)
 B.VS=new A.a7("Benefits of Clock Drawing Test ",null,B.hu,null,null,null,null,null,null)
-B.Ok=new A.w(B.df,B.VS,null)
-B.Kw=A.a(s([B.Ok]),t.p)
+B.Oj=new A.w(B.df,B.VS,null)
+B.Kw=A.a(s([B.Oj]),t.p)
 B.j1=A.a(s(["A::href","AREA::href","BLOCKQUOTE::cite","BODY::background","COMMAND::icon","DEL::cite","FORM::action","IMG::src","INPUT::src","INS::cite","Q::cite","VIDEO::poster"]),t.s)
 B.Ba=new A.dp(0.75,B.bJ,B.og,B.wn,1.5)
 B.KB=A.a(s([B.Ba]),t.sq)
@@ -89538,29 +89538,29 @@ B.wt=new A.qr(1,"landscape")
 B.NL=new A.Ch(null)
 B.YU=new A.Ci(0,"start")
 B.NM=new A.Ci(1,"end")
-B.Vn=new A.a7("Mini Cog Scores (2022)",null,B.bx,null,null,null,null,null,null)
-B.NO=new A.w(B.bc,B.Vn,null)
+B.Vo=new A.a7("Mini Cog Scores (2022)",null,B.bx,null,null,null,null,null,null)
+B.NO=new A.w(B.bc,B.Vo,null)
 B.UH=new A.a7("Settings",null,B.bX,null,null,null,null,null,null)
 B.GC=new A.lG(B.ck,B.ba,B.UH,null)
 B.NP=new A.w(B.fg,B.GC,null)
 B.UG=new A.a7("By taking the test over a period of time doctors can watch for changes with cognitive ability which allows them to treat potential issues early. The graph updates automatically as you take more tests.",null,null,null,null,null,null,null,null)
 B.NQ=new A.w(B.bB,B.UG,null)
-B.Vg=new A.a7("References",null,B.bX,B.x,null,null,null,null,null)
-B.Aj=new A.bG(B.v,null,null,B.Vg,null)
+B.Vh=new A.a7("References",null,B.bX,B.x,null,null,null,null,null)
+B.Aj=new A.bG(B.v,null,null,B.Vh,null)
 B.NS=new A.w(B.Y,B.Aj,null)
 B.NT=new A.w(B.bB,B.zu,null)
 B.FY=new A.a5(0,0,0,5)
-B.V2=new A.a7("Answer the Questions Below",null,B.mO,null,null,null,null,null,null)
-B.jt=new A.w(B.FY,B.V2,null)
+B.V3=new A.a7("Answer the Questions Below",null,B.mO,null,null,null,null,null,null)
+B.jt=new A.w(B.FY,B.V3,null)
 B.NU=new A.w(B.bc,B.zy,null)
-B.Vp=new A.a7("Identification",null,B.bx,null,null,null,null,null,null)
-B.NV=new A.w(B.bc,B.Vp,null)
-B.Vi=new A.a7("Give the test to someone else",null,B.bx,null,null,null,null,null,null)
-B.NW=new A.w(B.bc,B.Vi,null)
+B.Vq=new A.a7("Identification",null,B.bx,null,null,null,null,null,null)
+B.NV=new A.w(B.bc,B.Vq,null)
+B.Vj=new A.a7("Give the test to someone else",null,B.bx,null,null,null,null,null,null)
+B.NW=new A.w(B.bc,B.Vj,null)
 B.VO=new A.a7("What is it?",null,B.bx,null,null,null,null,null,null)
 B.NY=new A.w(B.bc,B.VO,null)
-B.Vq=new A.a7("Background",null,B.bx,null,null,null,null,null,null)
-B.NZ=new A.w(B.bc,B.Vq,null)
+B.Vr=new A.a7("Background",null,B.bx,null,null,null,null,null,null)
+B.NZ=new A.w(B.bc,B.Vr,null)
 B.zz=new A.a7("Medical research has showed evidence that cognitive and functional decline with dementia may be delayed by continued participation in mentally stimulating activities.",null,null,null,null,null,null,null,null)
 B.O_=new A.w(B.bB,B.zz,null)
 B.VT=new A.a7("Test someone else",null,B.bx,null,null,null,null,null,null)
@@ -89578,39 +89578,39 @@ B.VB=new A.a7("Any feedback is appreciated.",null,null,B.x,null,null,null,null,n
 B.O4=new A.w(B.fh,B.VB,null)
 B.VC=new A.a7("Overall Score",null,B.bx,null,null,null,null,null,null)
 B.O5=new A.w(B.bc,B.VC,null)
-B.Vv=new A.a7("Below is a clock face and fill in the numbers. Do not make any other marks.",null,B.dC,B.x,null,null,null,null,null)
-B.O6=new A.w(B.p0,B.Vv,null)
-B.V_=new A.a7("General",null,B.bX,B.x,null,null,null,null,null)
-B.Ai=new A.bG(B.v,null,null,B.V_,null)
-B.O7=new A.w(B.Y,B.Ai,null)
+B.V0=new A.a7("General",null,B.bX,B.x,null,null,null,null,null)
+B.Ai=new A.bG(B.v,null,null,B.V0,null)
+B.O6=new A.w(B.Y,B.Ai,null)
 B.Vx=new A.a7("Notifications",null,B.bX,B.x,null,null,null,null,null)
 B.Ag=new A.bG(B.v,null,null,B.Vx,null)
-B.O8=new A.w(B.Y,B.Ag,null)
-B.V7=new A.a7("This test requires your full attention!",null,null,B.x,null,null,null,null,null)
-B.O9=new A.w(B.fh,B.V7,null)
-B.Vc=new A.a7("Take the test yourself",null,B.bx,null,null,null,null,null,null)
-B.Oa=new A.w(B.bc,B.Vc,null)
+B.O7=new A.w(B.Y,B.Ag,null)
+B.V8=new A.a7("This test requires your full attention!",null,null,B.x,null,null,null,null,null)
+B.O8=new A.w(B.fh,B.V8,null)
+B.Vd=new A.a7("Take the test yourself",null,B.bx,null,null,null,null,null,null)
+B.O9=new A.w(B.bc,B.Vd,null)
 B.Gb=new A.a5(20,0,20,30)
 B.VH=new A.a7("Write in all the words you remember from the list before.",null,B.dC,B.x,null,null,null,null,null)
-B.Ob=new A.w(B.Gb,B.VH,null)
-B.Vu=new A.a7("You only need your device - but be sure you are in a quiet place and will not be interrupted.",null,null,B.x,null,null,null,null,null)
-B.Oc=new A.w(B.fh,B.Vu,null)
-B.Vm=new A.a7("Administer the Mini Cog to someone.",null,null,null,null,null,null,null,null)
-B.Od=new A.w(B.bB,B.Vm,null)
+B.Oa=new A.w(B.Gb,B.VH,null)
+B.Vv=new A.a7("You only need your device - but be sure you are in a quiet place and will not be interrupted.",null,null,B.x,null,null,null,null,null)
+B.Ob=new A.w(B.fh,B.Vv,null)
+B.Vn=new A.a7("Administer the Mini Cog to someone.",null,null,null,null,null,null,null,null)
+B.Oc=new A.w(B.bB,B.Vn,null)
 B.VN=new A.a7("Take a 5 minute test to get a quick screen of your brain health. (Mini Cog Test).",null,null,null,null,null,null,null,null)
-B.Of=new A.w(B.bB,B.VN,null)
+B.Oe=new A.w(B.bB,B.VN,null)
 B.mR=new A.t(!0,B.l,null,null,null,null,25,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Ve=new A.a7("You might be at risk for cognitive impairment.",null,B.mR,B.x,null,null,null,null,null)
-B.Og=new A.w(B.cF,B.Ve,null)
-B.Vo=new A.a7("General Info",null,B.bx,null,null,null,null,null,null)
-B.Oh=new A.w(B.bc,B.Vo,null)
-B.Vf=new A.a7("You might be at low risk for cognitive impairment.",null,B.mR,null,null,null,null,null,null)
-B.Oj=new A.w(B.cF,B.Vf,null)
-B.V5=new A.a7("Click the button below to start the test.",null,null,B.x,null,null,null,null,null)
-B.On=new A.w(B.fh,B.V5,null)
+B.Vf=new A.a7("You might be at risk for cognitive impairment.",null,B.mR,B.x,null,null,null,null,null)
+B.Of=new A.w(B.cF,B.Vf,null)
+B.Vp=new A.a7("General Info",null,B.bx,null,null,null,null,null,null)
+B.Og=new A.w(B.bc,B.Vp,null)
+B.Vg=new A.a7("You might be at low risk for cognitive impairment.",null,B.mR,null,null,null,null,null,null)
+B.Oi=new A.w(B.cF,B.Vg,null)
+B.V6=new A.a7("Click the button below to start the test.",null,null,B.x,null,null,null,null,null)
+B.Om=new A.w(B.fh,B.V6,null)
 B.zh=new A.t(!0,null,null,null,null,null,15,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.VJ=new A.a7("The Mini-Cog is a simple, widely accepted screening tool to help detect cognitive impairment in around three minutes. It is not a substitute for a clinical evaluation.",null,B.zh,null,null,null,null,null,null)
-B.Oo=new A.w(B.bB,B.VJ,null)
+B.On=new A.w(B.bB,B.VJ,null)
+B.V_=new A.a7("Below is a clock face. Fill in the numbers. Do not make other marks.",null,B.dC,B.x,null,null,null,null,null)
+B.Oo=new A.w(B.p0,B.V_,null)
 B.VR=new A.a7("Take it yourself",null,B.bx,null,null,null,null,null,null)
 B.Oq=new A.w(B.bc,B.VR,null)
 B.UO=new A.a7("You might be at high risk of cognitive impairment.",null,B.mR,B.x,null,null,null,null,null)
@@ -90219,26 +90219,26 @@ B.UW=new A.a7("Tap to toggle notifications",null,null,null,null,null,null,null,n
 B.UX=new A.a7("Trouble using your writing hand? ",null,B.dD,null,null,null,null,null,null)
 B.by=new A.a7("Learn More",null,B.aw,null,null,null,null,null,null)
 B.UZ=new A.a7("Borson, Soo et al. \u201cThe Mini-Cog as a screen for dementia: validation in a population-based sample.\u201d Journal of the American Geriatrics Society vol. 51,10 (2003): 1451-4. doi:10.1046/j.1532-5415.2003.51465.x",null,null,null,null,null,null,null,null)
-B.V0=new A.a7("JUN",null,B.hs,null,null,null,null,null,null)
-B.V3=new A.a7("Did you already get a diagnosis? ",null,B.dD,null,null,null,null,null,null)
-B.V4=new A.a7("Trouble using your dominant hand? ",null,B.dD,null,null,null,null,null,null)
+B.V1=new A.a7("JUN",null,B.hs,null,null,null,null,null,null)
+B.V4=new A.a7("Did you already get a diagnosis? ",null,B.dD,null,null,null,null,null,null)
+B.V5=new A.a7("Trouble using your dominant hand? ",null,B.dD,null,null,null,null,null,null)
 B.zo=new A.a7("Answer the following",null,B.bX,B.x,null,null,null,null,null)
-B.V8=new A.a7("Dark Theme",null,null,null,null,null,null,null,null)
+B.V9=new A.a7("Dark Theme",null,null,null,null,null,null,null,null)
 B.Sg=new A.t(!0,null,null,null,null,null,20,B.aZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.V9=new A.a7("Please select any impairments you have below.",null,B.Sg,null,null,null,null,null,null)
+B.Va=new A.a7("Please select any impairments you have below.",null,B.Sg,null,null,null,null,null,null)
 B.zp=new A.a7("Notifications",null,null,null,null,null,null,null,null)
 B.zq=new A.a7("Riley RJ, Burgener S, Buckwalter KC. Anxiety and stigma in dementia: a threat to aging in place. Nurs Clin North Am. 2014 Jun;49(2):213-31. doi: 10.1016/j.cnur.2014.02.008. PMID: 24846469; PMCID: PMC4032087.",null,null,null,null,null,null,null,null)
 B.zs=new A.a7("Undo",null,null,null,null,null,null,null,null)
 B.zt=new A.a7("Congratulations!",null,B.bX,B.x,null,null,null,null,null)
-B.Vb=new A.a7("Restart",null,B.hv,null,null,null,null,null,null)
-B.Vd=new A.a7("Full Screen",null,null,null,null,null,null,null,null)
+B.Vc=new A.a7("Restart",null,B.hv,null,null,null,null,null,null)
+B.Ve=new A.a7("Full Screen",null,null,null,null,null,null,null,null)
 B.zv=new A.a7("You have completed the test.",null,null,B.x,null,null,null,null,null)
 B.zw=new A.a7("Hearing Loss? ",null,B.dD,null,null,null,null,null,null)
 B.mQ=new A.t(!0,null,null,null,null,null,35,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Vk=new A.a7("No materials needed",null,B.mQ,B.x,null,null,null,null,null)
+B.Vl=new A.a7("No materials needed",null,B.mQ,B.x,null,null,null,null,null)
 B.zx=new A.a7("Accessibility",null,null,null,null,null,null,null,null)
 B.eO=new A.a7("Get Started",null,B.aw,null,null,null,null,null,null)
-B.Vr=new A.a7("Thank you for taking the test!",null,B.mQ,B.x,null,null,null,null,null)
+B.Vs=new A.a7("Thank you for taking the test!",null,B.mQ,B.x,null,null,null,null,null)
 B.Vw=new A.a7("Borson, S et al. \u201cThe Clock Drawing Test: utility for dementia detection in multiethnic elders.\u201d The journals of gerontology. Series A, Biological sciences and medical sciences vol. 54,11 (1999): M534-40. doi:10.1093/gerona/54.11.m534",null,null,null,null,null,null,null,null)
 B.Vy=new A.a7("More Coming Soon",null,B.aw,null,null,null,null,null,null)
 B.Vz=new A.a7("References",null,null,null,null,null,null,null,null)
