@@ -7237,7 +7237,7 @@ return A.L($async$aAr,r)},
 aBv(a){var s=0,r=A.M(t.a),q,p
 var $async$aBv=A.N(function(b,c){if(b===1)return A.J(c,r)
 while(true)switch(s){case 0:s=3
-return A.P(A.aNY(A.ds("http://ip-api.com/json/"+a+"?fields=1261577",0,null)),$async$aBv)
+return A.P(A.aNY(A.ds("https://corsproxy.io/?http://ip-api.com/json/"+a+"?fields=1261577",0,null)),$async$aBv)
 case 3:p=c
 if(p.b===200){q=B.cg.Se(0,A.aNQ(A.aMJ(p.e).c.a.h(0,"charset")).eH(0,p.w),null)
 s=1
